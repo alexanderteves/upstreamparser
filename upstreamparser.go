@@ -1,3 +1,6 @@
+// Copyright (c) 2015 Alexander Teves <alexander.teves@gmail.com>
+// Released under the terms of the MIT license
+
 package upstreamparser
 
 import (
